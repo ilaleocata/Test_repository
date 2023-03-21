@@ -1,1 +1,1 @@
-select * from test_1;
+select * from test_1 where persona = "Roberto";
